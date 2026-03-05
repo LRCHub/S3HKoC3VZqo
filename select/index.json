@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "インビジヴル",
+  "base_artist": "Fushi",
+  "createdAt": "2026-03-05T13:43:00.433768Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "インビジヴル",
+      "artist": "Fushi",
+      "has_synced": false,
+      "path": "select/pl_01_インビジヴル_Fushi.txt"
+    }
+  ]
+}
